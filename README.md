@@ -1,1 +1,0 @@
-# xtrend-app
